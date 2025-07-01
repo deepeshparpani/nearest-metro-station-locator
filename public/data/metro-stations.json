@@ -1,0 +1,415 @@
+[
+  {
+    "name": "Miyapur",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4964542,
+    "lng": 78.3729359
+  },
+  {
+    "name": "JNTU College",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4986677,
+    "lng": 78.3888094
+  },
+  {
+    "name": "KPHB Colony",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4937967,
+    "lng": 78.40167129999999
+  },
+  {
+    "name": "Kukatpally",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4851155,
+    "lng": 78.4115577
+  },
+  {
+    "name": "Balanagar",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4775787,
+    "lng": 78.42096810000001
+  },
+  {
+    "name": "Moosapet",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4721,
+    "lng": 78.425955
+  },
+  {
+    "name": "Bharat Nagar",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4640387,
+    "lng": 78.43004669999999
+  },
+  {
+    "name": "Erragadda",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.457209,
+    "lng": 78.43352
+  },
+  {
+    "name": "ESI Hospital",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4474675,
+    "lng": 78.438304
+  },
+  {
+    "name": "SR Nagar",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4416568,
+    "lng": 78.44163270000001
+  },
+  {
+    "name": "Ameerpet",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4353096,
+    "lng": 78.444717
+  },
+  {
+    "name": "Panjagutta",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4254486,
+    "lng": 78.450544
+  },
+  {
+    "name": "Irrum Manzil",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4205591,
+    "lng": 78.45609429999999
+  },
+  {
+    "name": "Khairatabad",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.4135174,
+    "lng": 78.4610869
+  },
+  {
+    "name": "Lakdi-ka-pul",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.403954,
+    "lng": 78.465004
+  },
+  {
+    "name": "Assembly",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.398107,
+    "lng": 78.47079699999999
+  },
+  {
+    "name": "Nampally",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.392351,
+    "lng": 78.470134
+  },
+  {
+    "name": "Gandhi Bhavan",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.3848433,
+    "lng": 78.4738673
+  },
+  {
+    "name": "Osmania Medical College",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.382346,
+    "lng": 78.4810712
+  },
+  {
+    "name": "MG Bus Station",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.379853,
+    "lng": 78.4859827
+  },
+  {
+    "name": "Malakpet",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.3766392,
+    "lng": 78.49479939999999
+  },
+  {
+    "name": "New Market",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.373484,
+    "lng": 78.502906
+  },
+  {
+    "name": "Musarambagh",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.371128,
+    "lng": 78.511944
+  },
+  {
+    "name": "Dilsukhnagar",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.368594,
+    "lng": 78.52573
+  },
+  {
+    "name": "Chaitanyapuri",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.3683237,
+    "lng": 78.5359278
+  },
+  {
+    "name": "Victoria Memorial",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.3618337,
+    "lng": 78.5439605
+  },
+  {
+    "name": "LB Nagar",
+    "city": "Hyderabad",
+    "line": "Red",
+    "lat": 17.3497098,
+    "lng": 78.547973
+  },
+  {
+    "name": "Nagole",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.390809,
+    "lng": 78.558832
+  },
+  {
+    "name": "Uppal",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4000909,
+    "lng": 78.5601753
+  },
+  {
+    "name": "Stadium",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.40739,
+    "lng": 78.5542321
+  },
+  {
+    "name": "NGRI",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4152951,
+    "lng": 78.5460207
+  },
+  {
+    "name": "Habsiguda",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4201961,
+    "lng": 78.54053619999999
+  },
+  {
+    "name": "Tarnaka",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.428293,
+    "lng": 78.5285577
+  },
+  {
+    "name": "Mettuguda",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4354241,
+    "lng": 78.5197012
+  },
+  {
+    "name": "Secunderabad East",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4357879,
+    "lng": 78.5054284
+  },
+  {
+    "name": "Parade Ground",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.444461,
+    "lng": 78.497463
+  },
+  {
+    "name": "Paradise",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4435024,
+    "lng": 78.48619219999999
+  },
+  {
+    "name": "Rasoolpura",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.443597,
+    "lng": 78.476365
+  },
+  {
+    "name": "Prakash Nagar",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4448917,
+    "lng": 78.4658366
+  },
+  {
+    "name": "Begumpet",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4375764,
+    "lng": 78.45695020000001
+  },
+  {
+    "name": "Ameerpet",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4353096,
+    "lng": 78.444717
+  },
+  {
+    "name": "Madhura Nagar",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4370441,
+    "lng": 78.4391796
+  },
+  {
+    "name": "Yusufguda",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4350829,
+    "lng": 78.4273015
+  },
+  {
+    "name": "Jubilee Hills Road No 5",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.430084,
+    "lng": 78.422997
+  },
+  {
+    "name": "Jubilee Hills Checkpost",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4287485,
+    "lng": 78.4121047
+  },
+  {
+    "name": "Peddamma Gudi",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4305178,
+    "lng": 78.40852819999999
+  },
+  {
+    "name": "Madhapur",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4367684,
+    "lng": 78.40071019999999
+  },
+  {
+    "name": "Durgam Cheruvu",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4428098,
+    "lng": 78.3876282
+  },
+  {
+    "name": "Hitech City",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4489198,
+    "lng": 78.38319109999999
+  },
+  {
+    "name": "Raidurg",
+    "city": "Hyderabad",
+    "line": "Blue",
+    "lat": 17.4420806,
+    "lng": 78.3771549
+  },
+  {
+    "name": "JBS Parade Ground",
+    "city": "Hyderabad",
+    "line": "Green",
+    "lat": 17.444461,
+    "lng": 78.497463
+  },
+  {
+    "name": "Secunderabad West",
+    "city": "Hyderabad",
+    "line": "Green",
+    "lat": 17.4336645,
+    "lng": 78.4992151
+  },
+  {
+    "name": "Gandhi Hospital",
+    "city": "Hyderabad",
+    "line": "Green",
+    "lat": 17.4256372,
+    "lng": 78.50186839999999
+  },
+  {
+    "name": "Musheerabad",
+    "city": "Hyderabad",
+    "line": "Green",
+    "lat": 17.4176206,
+    "lng": 78.49958
+  },
+  {
+    "name": "RTC X Roads",
+    "city": "Hyderabad",
+    "line": "Green",
+    "lat": 17.407094,
+    "lng": 78.496558
+  },
+  {
+    "name": "Chikkadpally",
+    "city": "Hyderabad",
+    "line": "Green",
+    "lat": 17.4002027,
+    "lng": 78.4948174
+  },
+  {
+    "name": "Narayanguda",
+    "city": "Hyderabad",
+    "line": "Green",
+    "lat": 17.3943716,
+    "lng": 78.48987029999999
+  },
+  {
+    "name": "Sultan Bazar",
+    "city": "Hyderabad",
+    "line": "Green",
+    "lat": 17.3836834,
+    "lng": 78.4833794
+  },
+  {
+    "name": "MG Bus Station",
+    "city": "Hyderabad",
+    "line": "Green",
+    "lat": 17.379853,
+    "lng": 78.4859827
+  }
+]
